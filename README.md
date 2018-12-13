@@ -1,6 +1,6 @@
 ## FFTools
 
-Something to make my life easier when dealing with common FFMPEG tasks. You'll need FFMPEG and Ruby installed.
+Something to make my life easier when dealing with common FFmpeg tasks. You'll need FFmpeg and Ruby installed.
 
 **mkvwav**
 This will dump a wav file from an MKV.
